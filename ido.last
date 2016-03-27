@@ -1,0 +1,26 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/lord/" . "Desktop/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/lord/Desktop/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "a"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/lord/Desktop/" (22260 1340 171993 477000) "./" "../" "git-2.0.1.tar.gz" "a" "lein")
+
+ ("/home/lord/" (22263 16101 735007 821000) "downloads/" ".dmrc" ".config/" ".emacs_bak_bak" "Pictures/" ".gvfs/" ".ssh/" ".gtk-bookmarks" "Public/" "./" ".gnome2/" ".dbus/" ".esd_auth" ".xauth4OYKOf" ".viminfo" ".local/" ".pulse/" ".cpan/" ".gnome2_private/" ".cache/" "study/" ".fontconfig/" ".nautilus/" ".gconf/" ".pki/" ".emacs.d_bak/" "../" "Desktop/" ".xsession-errors.old" ".emacs_bak" ".xauthcZXxTN" ".bash_logout" ".pulse-cookie" ".bash_history" ".oracle_jre_usage/" "Music/" ".emacs~" ".gstreamer-0.10/" ".emacs.d/" ".mozilla/" ".lein/" ".gconfd/" "Templates/" ".ICEauthority" "date/" "Documents/" ".gnote/" ".xauthf9wTMH" "Videos/" ".bash_profile" ".bashrc" ".gnupg/" ".xsession-errors" ".vim/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
